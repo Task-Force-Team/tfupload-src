@@ -5,4 +5,5 @@ cmake .. -G Ninja
 ninja
 cd ..
 chmod +rwx finalize.sh
-./finalize.sh```
+./finalize.sh
+```
